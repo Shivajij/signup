@@ -1,0 +1,23 @@
+#navbar {
+  background-color: black;
+  height: 60px;
+  width: 100%;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+#reebok{
+  padding: 20px;
+  color: white;
+}
+#right {
+  height: 100%;
+  width: 30%;
+  display: flex;
+  justify-content: space-evenly;
+}
+#right > div {
+  color: white;
+  padding: 20px;
+  color: white;
+}

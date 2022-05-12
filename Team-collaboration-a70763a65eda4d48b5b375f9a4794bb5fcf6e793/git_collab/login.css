@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+    
+}
+#conatiner{ls
+    background-color: white;
+    margin:auto;
+    width: 200px;
+    height: auto;
+    padding: 20px;
+    justify-content: center;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+     }
+     #pass{
+        display: block;
+        margin-bottom: 10px;
+        margin-top:10px;
+        background-color: white;
+        
+     }
+     #form{
+         justify-content: center;
+         background-color: white;
+     }
+     p{
+        text-align: center;
+        font-size: 12px;
+        margin-top: 10px;
+        color: #767676;
+        background-color: white;
+     }
+     #click{
+        padding: 5px 70px 5px 70px;
+        background-color: rgb(127, 127, 212);
+        border: 0px;
+        color: white;
+        cursor: pointer;
+
+     }
+     h1{
+         text-align: center;
+         padding-bottom: 30px;
+     }
